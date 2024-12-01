@@ -1,0 +1,4 @@
+npm install express mongoose dotenv ws express-http-proxy
+npm install ws
+npm install @tensorflow/tfjs-node
+npm install express-http-proxy
